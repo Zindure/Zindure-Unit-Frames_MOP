@@ -1,0 +1,34 @@
+lightweight tag 112920045777d6b5527e97bed5d0b068e0b16456 1.2
+Author:	GitHub <noreply@github.com>
+Date:	Tue May 27 20:30:49 2025 +0200
+
+commit 112920045777d6b5527e97bed5d0b068e0b16456
+Author: P-E D. <pauleloidalmas@gmail.com>
+Date:   Tue May 27 20:30:49 2025 +0200
+
+    Update release.yml
+
+commit 3d0caaeff8c757afbeb96ec4db0a0442c4fb0537
+Author: P-E D. <pauleloidalmas@gmail.com>
+Date:   Tue May 27 20:27:34 2025 +0200
+
+    Added Changelog
+
+commit 6cdacf2fe2464aebb2812eb11cc0f5424233f6c4
+Author: P-E D. <pauleloidalmas@gmail.com>
+Date:   Tue May 27 20:26:15 2025 +0200
+
+    Update release.yml
+
+commit c032e65052d496d2ea732541be4e8803e9c49a8d
+Author: Paul-Eloi Dalmas <pauleloidalmas@gmail.com>
+Date:   Tue May 27 20:18:51 2025 +0200
+
+    Implemented raid frames
+    
+    Added toggleable raid frames
+    Added raid-specific test frames
+    Updated the options menu to differentiate the types of frames
+    No longer hiding raid manager
+    Adjusted the size of icons
+
