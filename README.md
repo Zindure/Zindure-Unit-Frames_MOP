@@ -1,8 +1,8 @@
 # Zindure Unit Frames for WoW Classic
 
-Simple addon for group unit frames for WoW Clasic
+Simple addon for group unit frames for WoW Classic
 
-Right now, the only supported frames are party frames, raid frames will be added in the near future.
+Supports party and raid frames
 
 ## Features
 
